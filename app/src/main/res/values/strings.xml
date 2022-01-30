@@ -7,4 +7,7 @@
     <string name="highest_rated_movies">Películas mejor calificadas de todos los tiempos</string>
     <string name="upcoming">Próximas</string>
     <string name="stay_updated">Manténgase actualizado con las últimas películas.</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+    <string name="by_android_atc">By Android ATC</string>
 </resources>
